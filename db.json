@@ -1,0 +1,43 @@
+{
+  "locals": [
+    {
+      "code": "011",
+      "label": "São Paulo"
+    },
+    {
+      "code": "012",
+      "label": "Lorem Ipsum"
+    },
+    {
+      "code": "013",
+      "label": "Sit Amet"
+    },
+    {
+      "code": "018",
+      "label": "Duis aute"
+    },
+    {
+      "code": "021",
+      "label": "Consequat"
+    }
+  ],
+  "times": [
+    30,
+    60,
+    120
+  ],
+  "plans": [
+    {
+      "value": 30.00,
+      "label": "FaleMais 30"
+    },
+    {
+      "value": 60.00,
+      "label": "FaleMais 60"
+    },
+    {
+      "value": 120.00,
+      "label": "FaleMais 120"
+    }
+  ]
+}
